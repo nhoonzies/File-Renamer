@@ -1,5 +1,5 @@
 # File-Renamer
-Renames files inside a folder into numbers
+Renames files inside a folder into numbers (1, 2, 3...)
 
 How to use:
 
